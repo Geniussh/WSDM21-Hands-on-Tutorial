@@ -29,3 +29,7 @@ Community
 ---
 
 If you have any questions, [join our Slack](https://join.slack.com/t/deep-graph-library/shared_invite/zt-eb4ict1g-xcg3PhZAFAB8p6dtKuP6xQ) channel `wsdm21-tutorial`.
+
+Recording
+---
+https://vimeo.com/521028494
